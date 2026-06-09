@@ -17,14 +17,14 @@ mongoose.connect(process.env.MONGO_URL)
 
 
 const blogRoutes =
-require("./routes/BlogRoutes");
+require("./routes/blogRoutes");
 
 app.use("/blogs", blogRoutes);
 
 
 
 const authRoutes =
-require("./routes/AuthRoutes");
+require("./routes/authRoutes");
 
 app.use("/api", authRoutes);
 
