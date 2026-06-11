@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mkannan2004/blogger.git/static/css/main.783c2b4f.css",
+    "main.js": "/Mkannan2004/blogger.git/static/js/main.00befeca.js",
+    "static/js/453.7e4d5424.chunk.js": "/Mkannan2004/blogger.git/static/js/453.7e4d5424.chunk.js",
+    "index.html": "/Mkannan2004/blogger.git/index.html",
+    "main.783c2b4f.css.map": "/Mkannan2004/blogger.git/static/css/main.783c2b4f.css.map",
+    "main.00befeca.js.map": "/Mkannan2004/blogger.git/static/js/main.00befeca.js.map",
+    "453.7e4d5424.chunk.js.map": "/Mkannan2004/blogger.git/static/js/453.7e4d5424.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.783c2b4f.css",
+    "static/js/main.00befeca.js"
+  ]
+}
